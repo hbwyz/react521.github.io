@@ -5,6 +5,7 @@
     <title>resume</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
     <script type="application/x-javascript">
     addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 
@@ -21,7 +22,7 @@
     <!-- header -->
     <div class="col-sm-3 col-md-2 sidebar">
         <div class="sidebar_top">
-            <h1>刘金海</h1>
+            <h1 class="liu">刘金海</h1>
             <img src="./images/a1.jpg" alt="" />
         </div>
         <div class="details">
