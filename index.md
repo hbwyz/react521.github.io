@@ -8,6 +8,14 @@
     <link rel="stylesheet" type="text/css" href="css/style.css" />
     <script type="application/x-javascript">
     addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+
+    function hideURLbar() { window.scrollTo(0, 1); }
+    </script>
+    <link href="https://cdn.bootcss.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel='stylesheet' type='text/css' />
+    <link href='//fonts.googleapis.com/css?family=Ubuntu:300,400,500,700' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
+    <!-- start menu -->
 </head>
 
 <body>
