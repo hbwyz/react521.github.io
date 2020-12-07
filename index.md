@@ -1,6 +1,7 @@
+
 <html>
 
-<!-- <head>
+<head>
     <title>resume</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -14,7 +15,7 @@
     <link href='//fonts.googleapis.com/css?family=Ubuntu:300,400,500,700' rel='stylesheet' type='text/css'>
     <link href='//fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
     <!-- start menu -->
-</head> -->
+</head>
 
 <body>
     <!-- header -->
@@ -61,13 +62,13 @@
             <div class="item">
                 <h3 class="clr clr2">工作经历</h3>
                 <div class="item_detail">
-                    <h4>山东蓝翔汽车股份有限公司<span>2015.10 - 至今</span></h4>
+                    <h4>广州恒大淘宝足球俱乐部<span>2015.10 - 至今</span></h4>
                     <h6>Web前端开发工程师</h6>
                     <p>1、参与需求分析、数据库设计、系统优化等工作</p>
                     <p>2、解决开发过程中的技术问题</p>
                 </div>
                 <div class="item_detail">
-                    <h4>山东蓝翔汽车股份有限公司<span>2014.10-2015.10 </span></h4>
+                    <h4>山东鲁能泰山足球俱乐部<span>2014.10-2015.10 </span></h4>
                     <h6>Web前端开发工程师</h6>
                     <p>1、参与需求分析、数据库设计、系统优化等工作</p>
                     <p>2、解决开发过程中的技术问题</p>
