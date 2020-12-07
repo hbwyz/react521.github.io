@@ -1,6 +1,6 @@
 <html>
 
-<head>
+<!-- <head>
     <title>resume</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -14,7 +14,7 @@
     <link href='//fonts.googleapis.com/css?family=Ubuntu:300,400,500,700' rel='stylesheet' type='text/css'>
     <link href='//fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
     <!-- start menu -->
-</head>
+</head> -->
 
 <body>
     <!-- header -->
